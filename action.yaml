@@ -1,0 +1,11 @@
+name: <NAME>
+description: <DESCRIPTION>
+
+inputs: {}
+
+runs:
+  using: composite
+
+  steps: []
+
+outputs: {}
